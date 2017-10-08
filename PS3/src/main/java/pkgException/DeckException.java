@@ -14,6 +14,4 @@ public class DeckException extends Exception {
 	protected Deck getD() {
 		return d;
 	}
-	
-	
 }
